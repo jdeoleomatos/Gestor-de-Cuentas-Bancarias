@@ -1,0 +1,15 @@
+C:\Users\jdeol\source\repos\TareaP2\CapaDatos\bin\Debug\net9.0\CapaDatos.deps.json
+C:\Users\jdeol\source\repos\TareaP2\CapaDatos\bin\Debug\net9.0\CapaDatos.dll
+C:\Users\jdeol\source\repos\TareaP2\CapaDatos\bin\Debug\net9.0\CapaDatos.pdb
+C:\Users\jdeol\source\repos\TareaP2\CapaDatos\bin\Debug\net9.0\CapaEntidades.dll
+C:\Users\jdeol\source\repos\TareaP2\CapaDatos\bin\Debug\net9.0\CapaEntidades.pdb
+C:\Users\jdeol\source\repos\TareaP2\CapaDatos\obj\Debug\net9.0\CapaDatos.csproj.AssemblyReference.cache
+C:\Users\jdeol\source\repos\TareaP2\CapaDatos\obj\Debug\net9.0\CapaDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jdeol\source\repos\TareaP2\CapaDatos\obj\Debug\net9.0\CapaDatos.AssemblyInfoInputs.cache
+C:\Users\jdeol\source\repos\TareaP2\CapaDatos\obj\Debug\net9.0\CapaDatos.AssemblyInfo.cs
+C:\Users\jdeol\source\repos\TareaP2\CapaDatos\obj\Debug\net9.0\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\jdeol\source\repos\TareaP2\CapaDatos\obj\Debug\net9.0\CapaDatos.csproj.Up2Date
+C:\Users\jdeol\source\repos\TareaP2\CapaDatos\obj\Debug\net9.0\CapaDatos.dll
+C:\Users\jdeol\source\repos\TareaP2\CapaDatos\obj\Debug\net9.0\refint\CapaDatos.dll
+C:\Users\jdeol\source\repos\TareaP2\CapaDatos\obj\Debug\net9.0\CapaDatos.pdb
+C:\Users\jdeol\source\repos\TareaP2\CapaDatos\obj\Debug\net9.0\ref\CapaDatos.dll

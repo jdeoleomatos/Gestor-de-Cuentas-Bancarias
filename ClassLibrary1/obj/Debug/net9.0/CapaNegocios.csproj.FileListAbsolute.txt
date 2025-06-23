@@ -1,0 +1,17 @@
+C:\Users\jdeol\source\repos\TareaP2\ClassLibrary1\bin\Debug\net9.0\CapaNegocios.deps.json
+C:\Users\jdeol\source\repos\TareaP2\ClassLibrary1\bin\Debug\net9.0\CapaNegocios.dll
+C:\Users\jdeol\source\repos\TareaP2\ClassLibrary1\bin\Debug\net9.0\CapaNegocios.pdb
+C:\Users\jdeol\source\repos\TareaP2\ClassLibrary1\bin\Debug\net9.0\CapaDatos.dll
+C:\Users\jdeol\source\repos\TareaP2\ClassLibrary1\bin\Debug\net9.0\CapaEntidades.dll
+C:\Users\jdeol\source\repos\TareaP2\ClassLibrary1\bin\Debug\net9.0\CapaDatos.pdb
+C:\Users\jdeol\source\repos\TareaP2\ClassLibrary1\bin\Debug\net9.0\CapaEntidades.pdb
+C:\Users\jdeol\source\repos\TareaP2\ClassLibrary1\obj\Debug\net9.0\CapaNegocios.csproj.AssemblyReference.cache
+C:\Users\jdeol\source\repos\TareaP2\ClassLibrary1\obj\Debug\net9.0\CapaNegocios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jdeol\source\repos\TareaP2\ClassLibrary1\obj\Debug\net9.0\CapaNegocios.AssemblyInfoInputs.cache
+C:\Users\jdeol\source\repos\TareaP2\ClassLibrary1\obj\Debug\net9.0\CapaNegocios.AssemblyInfo.cs
+C:\Users\jdeol\source\repos\TareaP2\ClassLibrary1\obj\Debug\net9.0\CapaNegocios.csproj.CoreCompileInputs.cache
+C:\Users\jdeol\source\repos\TareaP2\ClassLibrary1\obj\Debug\net9.0\CapaNego.1D246B3C.Up2Date
+C:\Users\jdeol\source\repos\TareaP2\ClassLibrary1\obj\Debug\net9.0\CapaNegocios.dll
+C:\Users\jdeol\source\repos\TareaP2\ClassLibrary1\obj\Debug\net9.0\refint\CapaNegocios.dll
+C:\Users\jdeol\source\repos\TareaP2\ClassLibrary1\obj\Debug\net9.0\CapaNegocios.pdb
+C:\Users\jdeol\source\repos\TareaP2\ClassLibrary1\obj\Debug\net9.0\ref\CapaNegocios.dll
