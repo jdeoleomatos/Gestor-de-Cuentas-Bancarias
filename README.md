@@ -6,7 +6,7 @@ Aplicación backend desarrollada en **ASP.NET Core** y **C#** para la gestión d
 
 ## 🛠 Tecnologías
 
-- **.NET 6 / ASP.NET Core**
+- **.NET 9 / ASP.NET Core**
 - **C#**
 - **Entity Framework Core** con SQL Server
 - **Arquitectura limpia por capas** (Controllers, Services, Repositories)
